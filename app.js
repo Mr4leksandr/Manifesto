@@ -35,5 +35,5 @@ function vastus9(){
 }
 
 function vastus10(){
-    document.getElementById("vastus_10").innerText = "Parimad arhitektuurilised lahendused, nõuded ja disaintekivad iseorganiseeruvates meeskondades.";
+    document.getElementById("vastus_10").innerText = "Parimad arhitektuurilised lahendused, nõuded ja disain tekivad iseorganiseeruvates meeskondades.";
 }
